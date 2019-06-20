@@ -5,6 +5,10 @@
 %% IDD, Dept. of Physics, Batch of 2014~2019
 %% soumyadeep.das.phy14@iitbhu.ac.in
 %% Original License and author information follows
+%% Date - 10th May, 2019
+%%  License: MIT License (c) 2019 Soumyadeep Das
+%% github repo : git@github.com:thephoenix01/thesis-template-iitbhu.git
+%% overleaf link : https://www.overleaf.com/read/qpdsntyhnhtq
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%                                                                            %%
