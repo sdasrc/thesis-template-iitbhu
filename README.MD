@@ -1,8 +1,8 @@
 **LaTeX Thesis Template for Indian Institute of Technology (BHU) Varanasi**
 ========================
-Edited and Modified by Soumyadeep Das, IDD, Dept. of Physics, Batch of 2014~2019.
+> Edited and Modified by Soumyadeep Das, IDD, Dept. of Physics, Batch of 2014~2019.
 
-Report issues [here](https://github.com/thephoenix01/thesis-template-iitbhu/issues) or send me an [email](mailto:soumyadeep.das.phy14@iitbhu.ac.in?subject=[GitHub]%20IIT%20BHU%20Thesis)
+> Report issues [here](https://github.com/thephoenix01/thesis-template-iitbhu/issues) or send me an [email](mailto:soumyadeep.das.phy14@iitbhu.ac.in?subject=[GitHub]%20IIT%20BHU%20Thesis)
 
 *Derived from [CUED PhD Thesis template](https://github.com/kks32/phd-thesis-template) by [Krishna Kumar](https://github.com/kks32). Not to be used for commercial purposes.*
 
@@ -10,12 +10,9 @@ Report issues [here](https://github.com/thephoenix01/thesis-template-iitbhu/issu
 CUED PhD thesis template
 ========================
 
-[![Join the chat at https://gitter.im/kks32/phd-thesis-template](https://badges.gitter.im/kks32/phd-thesis-template.svg)](https://gitter.im/kks32/phd-thesis-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-> A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department.
-
 [![Build Status](https://api.travis-ci.org/kks32/phd-thesis-template.svg)](https://travis-ci.org/thephoenix01/thesis-template-iitbhu)
-[![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](license.md)
-[![Version](http://img.shields.io/badge/version-2.2-brightgreen.svg)](https://github.com/thephoenix01/thesis-template-iitbhu/releases/latest)
+[![License MIT](http://img.shields.io/badge/license-MIT-red.svg)](license.md)
+[![Version](http://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/thephoenix01/thesis-template-iitbhu/releases/latest)
 
 --------------------------------------------------------------------------------
 ## Features
