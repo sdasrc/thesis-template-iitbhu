@@ -750,10 +750,10 @@ supported!}
         \ifsetDVI
         % Odd and Even side Margin for binding and set viewmode for PDF
 	\RequirePackage[dvips,paper=\PHD@papersize,hmarginratio=1:1,
-          vmarginratio=1:1,scale=0.75,bindingoffset=5mm]{geometry}
+          vmarginratio=1:1,scale=0.75,bindingoffset=10mm]{geometry}
         \else
 	\RequirePackage[pdftex,paper=\PHD@papersize,hmarginratio=1:1,
-          vmarginratio=1:1,scale=0.75,bindingoffset=5mm]{geometry}
+          vmarginratio=1:1,scale=0.75,bindingoffset=10mm]{geometry}
         \fi
     \fi
 
