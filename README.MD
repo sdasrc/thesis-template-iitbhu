@@ -14,6 +14,8 @@ Edited and Modified by Soumyadeep Das, IDD, Dept. of Physics, Batch of 2014~2019
 
 Report issues [here](https://github.com/thephoenix01/thesis-template-iitbhu/issues), or send me an [email](mailto:soumyadeep.das.phy14@iitbhu.ac.in?subject=[GitHub]%20IIT%20BHU%20Thesis) to contribute.
 
+Download the zip here, or get it from [![overleaf](https://img.shields.io/badge/-overleaf-brightgreen.svg)](https://www.overleaf.com/read/qpdsntyhnhtq)
+
 --------------------------------------------------------------------------------
 ## Features
 
@@ -22,6 +24,8 @@ Report issues [here](https://github.com/thephoenix01/thesis-template-iitbhu/issu
 *   Well-suited for sending to major institutions all over the world.
 
 *   Supports LaTeX, XeLaTeX and LuaLaTeX. Fully compatible for online IDEs.
+
+*   Completely modular, highly intuitive, and extremely flexible.
 
 *   Adaptive Title Page: Title page adapts to title length. Title page with the institute crest.
 
