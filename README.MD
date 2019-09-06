@@ -5,7 +5,7 @@ IIT BHU LaTeX Thesis Template
 -->
 [![Platform any](https://img.shields.io/badge/platform-any-brightgreen.svg)](https://github.com/thephoenix01/thesis-template-iitbhu)
 [![License MIT](https://img.shields.io/badge/environment-LaTeX-blue.svg)](https://tex.stackexchange.com/)
-[![Version](http://img.shields.io/badge/version-1.0-yellow.svg)](https://github.com/thephoenix01/thesis-template-iitbhu/releases/latest)
+[![Version](http://img.shields.io/badge/version-1.1-yellow.svg)](https://github.com/thephoenix01/thesis-template-iitbhu/releases/latest)
 [![License MIT](http://img.shields.io/badge/license-MIT-red.svg)](license.md)
 
 > *Derived from [CUED PhD Thesis template](https://github.com/kks32/phd-thesis-template) by [Krishna Kumar](https://github.com/kks32).*
